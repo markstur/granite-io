@@ -1,0 +1,13 @@
+site_name: granite-io Documentation
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - index.md
+  - design.md
+  - API reference: reference.md
+  - examples.md
